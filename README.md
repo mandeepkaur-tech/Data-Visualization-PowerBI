@@ -3,7 +3,7 @@
 > Power BI dashboard analyzing 500K+ UK online retail transactions to uncover revenue trends, top customers, and global expansion opportunities.
 
 An interactive Power BI dashboard built on the **UCI Online Retail Dataset**, analyzing e-commerce transactions from a UK-based online gift retailer (Dec 2010 – Dec 2011). The dashboard uncovers revenue trends, top-performing customers and countries, and international expansion opportunities.
-                                                              
+                                                                                            
 ---
 
 ## 📑 Table of Contents
