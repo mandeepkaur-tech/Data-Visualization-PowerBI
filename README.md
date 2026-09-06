@@ -43,7 +43,7 @@ An interactive Power BI dashboard built on the **UCI Online Retail Dataset**, an
 - `UnitPrice` – Price per unit (£)
 - `CustomerID` – Unique customer identifier
 - `Country` – Customer's country
-
+                      
 ---
 
 ## 📈 Dashboard Pages
